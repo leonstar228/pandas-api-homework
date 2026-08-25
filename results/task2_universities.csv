@@ -1,0 +1,214 @@
+﻿state-province,name,alpha_two_code,domains,web_pages,country
+,Kharkiv National University,UA,"['student.karazin.ua', 'karazin.ua', 'univer.kharkov.ua']","['https://karazin.ua/', 'http://www.univer.kharkov.ua/']",Ukraine
+,Ukrainian Academy of Banking,UA,['academy.sumy.ua'],['http://www.academy.sumy.ua/'],Ukraine
+,Odessa State Medical University,UA,['arosmu.org'],['http://www.arosmu.org/'],Ukraine
+,Bila Cerkva State Agrarian University,UA,['btsau.kiev.ua'],['http://www.btsau.kiev.ua/'],Ukraine
+,Chernivci National University,UA,['chnu.cv.ua'],['http://www.chnu.cv.ua/'],Ukraine
+,Crimea State Medical University,UA,['crsmu.com'],['http://www.crsmu.com/'],Ukraine
+,Dnepropetrovsk National University of Railway Transport,UA,['diit.edu.ua'],['http://www.diit.edu.ua/'],Ukraine
+,Dnepropetrovsk National University,UA,['dnu.dp.ua'],['http://www.dnu.dp.ua/'],Ukraine
+,Donetsk State Medical University,UA,['donmeduni.com'],['http://www.donmeduni.com/'],Ukraine
+,Donetsk National Technical University,UA,['donntu.edu.ua'],['http://www.donntu.edu.ua/'],Ukraine
+,Donetsk National University,UA,['donnu.edu.ua'],['http://www.donnu.edu.ua/'],Ukraine
+,Dneprodzerzhinsk State Technical University,UA,['dstu.dp.ua'],['http://www.dstu.dp.ua/'],Ukraine
+,Alfred Nobel University of Economics and Law,UA,['duep.edu'],['http://www.duep.edu/'],Ukraine
+,Ukrainian National Forestry University,UA,['forest.lviv.ua'],['http://www.forest.lviv.ua/'],Ukraine
+,Lviv National University Ivan Franko,UA,['franko.lviv.ua'],['http://www.franko.lviv.ua/'],Ukraine
+,Kharkiv National University of Economics,UA,['hneu.edu.ua'],['http://www.hneu.edu.ua/'],Ukraine
+Ivano-Frankivsk,Ivano-Frankivsk National University of Oil and Gas,UA,"['ifdtung.if.ua', 'nung.edu.ua']",['https://nung.edu.ua/'],Ukraine
+,State Pedagogical University in Kryvyi Rih,UA,['kdpu.edu.ua'],['http://www.kdpu.edu.ua/'],Ukraine
+,Kharkiv State Transport Technical University,UA,['khadi.kharkov.ua'],['http://www.khadi.kharkov.ua/'],Ukraine
+,National Aerospace University Kharkov Aviation Institute,UA,['khai.edu'],['http://www.khai.edu/'],Ukraine
+,Petro Mohyla Black Sea State University,UA,['kma.mk.ua'],['http://www.kma.mk.ua/'],Ukraine
+,Kiev National Economic University,UA,['kneu.kiev.ua'],['http://www.kneu.kiev.ua/'],Ukraine
+,Kiev National University of Construction and Architecture,UA,['knuba.edu.ua'],['http://www.knuba.edu.ua/'],Ukraine
+,National Technical University (Kharkiv Polytechnical Institute),UA,['kpi.kharkov.ua'],['http://www.kpi.kharkov.ua/'],Ukraine
+,National Technical University (Kiev Politechnical Institute),UA,['kpi.ua'],['http://www.kpi.ua/'],Ukraine
+,KROK Economics and Law University,UA,['krok.edu.ua'],['http://www.krok.edu.ua/'],Ukraine
+,Kiev School Of Economics,UA,['kse.org.ua'],['http://www.kse.org.ua/'],Ukraine
+,Kharkiv State Medical University,UA,['ksmu.kharkov.ua'],['http://www.ksmu.kharkov.ua/'],Ukraine
+,Kharkiv State Technical University of Construction and Architecture,UA,['kstuca.kharkov.ua'],['http://www.kstuca.kharkov.ua/'],Ukraine
+,Kiev Slavonic University,UA,['ksu.edu.ua'],['http://www.ksu.edu.ua/'],Ukraine
+,Kharkiv National University of Radio Electronics,UA,['nure.ua'],['https://nure.ua/'],Ukraine
+,Luhansk Taras Shevchenko National Pedagogical University,UA,['lgpu.lg.ua'],['http://www.lgpu.lg.ua/'],Ukraine
+,Lviv Polytechnic National University,UA,['lp.edu.ua'],['http://www.lp.edu.ua/'],Ukraine
+,Luhansk State Medical University,UA,['lsmu.edu.ua'],['https://www.lsmu.edu.ua/'],Ukraine
+,Odessa National Maritime Academy,UA,['ma.odessa.ua'],['http://www.ma.odessa.ua/'],Ukraine
+,Lviv National Medical Univeristy,UA,['meduniv.lviv.ua'],['http://www.meduniv.lviv.ua/'],Ukraine
+,National Aviation University,UA,['nau.edu.ua'],['http://www.nau.edu.ua/'],Ukraine
+,National Agricultural University,UA,['nauu.kiev.ua'],['http://www.nauu.kiev.ua/'],Ukraine
+,National Metallurgical Academy of Ukraine,UA,['nmetau.edu.ua'],['http://www.nmetau.edu.ua/'],Ukraine
+,National Medical University O.O. Bogomolets,UA,['nmu.edu.ua'],['http://www.nmu.edu.ua/'],Ukraine
+,National Mining University,UA,['nmu.org.ua'],['http://www.nmu.org.ua/'],Ukraine
+,National Pedagogical University M. Dragomanov,UA,['npu.edu.ua'],['http://www.npu.edu.ua/'],Ukraine
+,National Transport University,UA,['ntu.kar.net'],['http://www.ntu.kar.net/'],Ukraine
+,Odessa State Academy of Construction and Architecture,UA,['ogasa.odessa.ua'],['http://www.ogasa.odessa.ua/'],Ukraine
+,Odessa National I.I. Mecnikov University,UA,['onu.edu.ua'],['http://www.onu.edu.ua/'],Ukraine
+,Odessa National Polytechnic University,UA,['opu.odessa.ua'],['http://www.opu.odessa.ua/'],Ukraine
+,Odessa National Academy of Food Technologies,UA,['osaft.odessa.ua'],['http://www.osaft.odessa.ua/'],Ukraine
+,Odessa National Marine University,UA,['osmu.odessa.ua'],['http://www.osmu.odessa.ua/'],Ukraine
+,Poltava National Technical University,UA,['pntu.edu.ua'],['http://www.pntu.edu.ua/'],Ukraine
+,Precarpathian University,UA,['pu.if.ua'],['http://www.pu.if.ua/'],Ukraine
+,Poltava University of Consumer Cooperatives in Ukraine,UA,['pusku.edu.ua'],['http://www.pusku.edu.ua/'],Ukraine
+,Sumy National Agrarian University,UA,['sau.sumy.ua'],['http://www.sau.sumy.ua/'],Ukraine
+,Sevastopol National Technical University,UA,['sevntu.com.ua'],['http://sevntu.com.ua/'],Ukraine
+,East Ukrainian National University,UA,['snu.edu.ua'],['http://www.snu.edu.ua/'],Ukraine
+,Sumy State University,UA,['sumdu.edu.ua'],['http://www.sumdu.edu.ua/'],Ukraine
+,Ternopil Academy of National Economy,UA,['tane.edu.ua'],['http://www.tane.edu.ua/'],Ukraine
+,Taurida National V.I.Vernadsky University,UA,['tnu.crimea.ua'],['http://www.tnu.crimea.ua/'],Ukraine
+,Ternopil State Ivan Pul'uj Technical University,UA,['tu.edu.te.ua'],['http://www.tu.edu.te.ua/'],Ukraine
+,Technological University of Podillya,UA,['tup.km.ua'],['http://www.tup.km.ua/'],Ukraine
+,Ukrainian Medical Stomatological Academy,UA,['uamsa.net'],['http://www.uamsa.net/'],Ukraine
+,National University of Kiev-Mohyla Academy,UA,['ukma.kiev.ua'],['http://www.ukma.kiev.ua/'],Ukraine
+,Ukrainian Academy of Pharmacy,UA,['ukrfa.kharkov.ua'],['http://www.ukrfa.kharkov.ua/'],Ukraine
+,National University of Internal Affairs,UA,['univd.edu.ua'],['http://www.univd.edu.ua/'],Ukraine
+,Kherson State University,UA,['university.kherson.ua'],['http://www.university.kherson.ua/'],Ukraine
+Kyiv,Taras Shevchenko National University of Kyiv,UA,"['univ.kiev.ua', 'knu.ua']","['http://www.univ.kiev.ua/', 'https://www.knu.ua/']",Ukraine
+,Uzhgorod National University,UA,['univ.uzhgorod.ua'],['http://www.univ.uzhgorod.ua/'],Ukraine
+,National University of Ostroh Academy,UA,['uosa.uar.net'],['http://www.uosa.uar.net/'],Ukraine
+,National University of Shipbuilding,UA,['usmtu.edu.ua'],['http://www.usmtu.edu.ua/'],Ukraine
+,National University of Food Technologies,UA,['usuft.kiev.ua'],['http://www.usuft.kiev.ua/'],Ukraine
+,Volyn National University Lesja Ukrainka,UA,['vdu.edu.ua'],['http://www.vdu.edu.ua/'],Ukraine
+,National Pirogov Memorial Medical University,UA,['vnmu.vn.ua'],['http://www.vnmu.vn.ua/'],Ukraine
+,Vinnica National Technical University,UA,['vstu.vinnica.ua'],['http://www.vstu.vinnica.ua/'],Ukraine
+,Zaporizhzhe National Technical University,UA,['zntu.edu.ua'],['http://www.zntu.edu.ua/'],Ukraine
+,Zaporizhzhe National University,UA,['znu.edu.ua'],['http://www.znu.edu.ua/'],Ukraine
+,Lviv University,UA,['lnu.edu.ua'],['https://www.lnu.edu.ua/'],Ukraine
+,Wroclaw Akademia Biznesu,PL,"['student.wab.edu.pl', 'wab.edu.pl']",['https://wab.edu.pl/'],Poland
+,Zachodniopomorska School of Science and Engineering,PL,['zut.edu.pl'],['http://www.zut.edu.pl/'],Poland
+,Vistula University,PL,['vistula.edu.pl'],['https://www.vistula.edu.pl/'],Poland
+,"Fine Arts Academy ""Jan Matejko"" in Cracow",PL,['asp.krakow.pl'],['http://www.asp.krakow.pl/'],Poland
+,Academy of Economics in Katowice,PL,['ae.katowice.pl'],['http://www.ae.katowice.pl/'],Poland
+,Academy of Economics in Cracow,PL,['ae.krakow.pl'],['http://www.ae.krakow.pl/'],Poland
+,Academy of Economics in Poznan,PL,['ae.poznan.pl'],['http://www.ae.poznan.pl/'],Poland
+,Academy of Economics in Wroclaw,PL,['ae.wroc.pl'],['http://www.ae.wroc.pl/'],Poland
+,AGH University of Science and Technology,PL,['agh.edu.pl'],['http://www.agh.edu.pl/'],Poland
+,Academy of Humanities and Economics in Lodz,PL,['ahe.edu.pl'],['http://www.ahe.edu.pl/'],Poland
+,Medical Academy Ludwik Rydygier in Bydgoszcz,PL,['amb.bydgoszcz.pl'],['http://www.amb.bydgoszcz.pl/'],Poland
+,Medical Academy in Bialystok,PL,['amb.edu.pl'],['http://www.amb.edu.pl/'],Poland
+,Medical Academy in Gdansk,PL,['amg.gda.pl'],['http://www.amg.gda.pl/'],Poland
+,"Music Academy ""Karol Szymanowski"" in Katowice",PL,['am.katowice.pl'],['http://www.am.katowice.pl/'],Poland
+,Medical Academy in Lodz,PL,['am.lodz.pl'],['http://www.am.lodz.pl/'],Poland
+,Medical Academy in Lublin,PL,['am.lublin.pl'],['http://www.am.lublin.pl/'],Poland
+,Adam Mickiewicz University of Poznan,PL,['amu.edu.pl'],['http://www.amu.edu.pl/'],Poland
+,"Music Academy ""Felix Nowowiejski"" in Bydgoszcz",PL,['amuz.bydgoszcz.pl'],['http://www.amuz.bydgoszcz.pl/'],Poland
+,"Music Academy ""Stanislaw Moniuszko"" in Gdansk",PL,['amuz.gda.pl'],['http://www.amuz.gda.pl/'],Poland
+,Music Academy in Cracow,PL,['amuz.krakow.pl'],['http://www.amuz.krakow.pl/'],Poland
+,Music Academy in Lodz,PL,['amuz.lodz.pl'],['http://www.amuz.lodz.pl/'],Poland
+,"Music Academy ""Ignacy Jana Paderewski"" in Poznan",PL,['amuz.poznan.pl'],['http://www.amuz.poznan.pl/'],Poland
+,"Music Academy ""Karol Lipinski"" in Wroclaw",PL,['amuz.wroc.pl'],['http://www.amuz.wroc.pl/'],Poland
+,Medical Academy in Warszawa,PL,['amwaw.edu.pl'],['http://www.amwaw.edu.pl/'],Poland
+,Medical Academy in Wroclaw,PL,['am.wroc.pl'],['http://www.am.wroc.pl/'],Poland
+,Polonia University in Czêstochowa,PL,['ap.edu.pl'],['http://www.ap.edu.pl/'],Poland
+,Akademia Podlaska,PL,['ap.siedlce.pl'],['http://www.ap.siedlce.pl/'],Poland
+,Agricultural University of Cracow,PL,['ar.krakow.pl'],['http://www.ar.krakow.pl/'],Poland
+,Agricultural University of Lublin,PL,['ar.lublin.pl'],['http://www.ar.lublin.pl/'],Poland
+,Agricultural University of Szczecin,PL,['ar.szczecin.pl'],['http://www.ar.szczecin.pl/'],Poland
+,Agricultural-Technical Academy in Olsztyn,PL,['art.olsztyn.pl'],['http://www.art.olsztyn.pl/'],Poland
+,Agricultural University of Wroclaw,PL,['ar.wroc.pl'],['http://www.ar.wroc.pl/'],Poland
+,Fine Arts Academy in Gdansk,PL,['asp.gda.pl'],['http://www.asp.gda.pl/'],Poland
+,Fine Arts Academy in Katowice,PL,['aspkat.edu.pl'],['http://www.aspkat.edu.pl/'],Poland
+,Fine Arts Academy Wladyslaw Strzeminski in Lodz,PL,['asp.lodz.pl'],['http://www.asp.lodz.pl/'],Poland
+,Fine Arts Academy in Poznan,PL,['asp.poznan.pl'],['http://www.asp.poznan.pl/'],Poland
+,Fine Arts Academy in Warsaw,PL,['asp.waw.pl'],['http://www.asp.waw.pl/'],Poland
+,Fine Arts Academy in Wroclaw,PL,['asp.wroc.pl'],['http://www.asp.wroc.pl/'],Poland
+,Aleksander Zelwerowicz State Theatre Academy,PL,['at.edu.pl'],['http://www.at.edu.pl/'],Poland
+,Agricultural University of Poznan,PL,['au.poznan.pl'],['http://www.au.poznan.pl/'],Poland
+,"Physical Education Academy ""Jozef Pilsudski"" in Warsaw",PL,['awf.edu.pl'],['http://www.awf.edu.pl/'],Poland
+,"Physical Education Academy ""Jedrzej Sniadecki"" in Gdansk",PL,['awf.gda.pl'],['http://www.awf.gda.pl/'],Poland
+,Physical Education Academy in Katowice,PL,['awf.katowice.pl'],['http://www.awf.katowice.pl/'],Poland
+,University School of Physical Education,PL,['awf.krakow.pl'],['http://www.awf.krakow.pl/'],Poland
+,"Physical Education Academy ""Eugeniusz Piasecki"" in Poznan",PL,['awf.poznan.pl'],['http://www.awf.poznan.pl/'],Poland
+,Physical Education Academy in Wroclaw,PL,['awf.wroc.pl'],['http://www.awf.wroc.pl/'],Poland
+,"Music Academy ""Fryderyk Chopin"" in Warszaw",PL,['chopin.edu.pl'],['http://www.chopin.edu.pl/'],Poland
+,Collegium Civitas,PL,['collegium.edu.pl'],['http://www.collegium.edu.pl/'],Poland
+,University of Lower Silesia of the Association for the Advancement of Education in Wroclaw.,PL,['dswe.wroc.pl'],['http://www.dswe.wroc.pl/'],Poland
+,European Academy of Arts in Warsaw,PL,['eas.edu.pl'],['http://www.eas.edu.pl/'],Poland
+,"State Film, Television and Theatre Higher School Leon Schiller in Lodz",PL,['filmowka.lodz.pl'],['http://www.filmowka.lodz.pl/'],Poland
+,Silesian School of Economics and Languages,PL,['gallus.pl'],['http://www.gallus.pl/'],Poland
+,Katowice School of Economics,PL,['gwsh.pl'],['http://www.gwsh.pl/'],Poland
+,French Institute of Management,PL,['ifg.com.pl'],['http://www.ifg.com.pl/'],Poland
+,Andrzej Frycz Modrzewski Cracow College,PL,['ksw.edu.pl'],['http://www.ksw.edu.pl/'],Poland
+,Catholic University of Lublin,PL,['kul.lublin.pl'],['http://www.kul.lublin.pl/'],Poland
+,Lazarski School of Commerce and Law,PL,['lazarski.pl'],['http://www.lazarski.pl/'],Poland
+,Technical University of Radom,PL,['man.radom.pl'],['http://www.man.radom.pl/'],Poland
+,"Teacher Training College of Revalidation, Rehabilitation and Physical Education",PL,['nkrriwf.pl'],['http://www.nkrriwf.pl/'],Poland
+,Pomeranian Academy of Medicine in Szczecin,PL,['pam.szczecin.pl'],['http://www.pam.szczecin.pl/'],Poland
+,Technical University of Bialystok,PL,['pb.bialystok.pl'],['http://www.pb.bialystok.pl/'],Poland
+,Technical University of Czestochowa,PL,['pcz.czest.pl'],['http://www.pcz.czest.pl/'],Poland
+,Technical University of Gdansk,PL,['pg.gda.pl'],['http://www.pg.gda.pl/'],Poland
+,Polish-Japanese Institute of Information Technology in Warsaw,PL,['pjwstk.edu.pl'],['http://www.pjwstk.edu.pl/'],Poland
+,Technical University of Cracow,PL,['pk.edu.pl'],['http://www.pk.edu.pl/'],Poland
+,Technical University of Lodz,PL,['p.lodz.pl'],['http://www.p.lodz.pl/'],Poland
+,Technical University of Lublin,PL,['pol.lublin.pl'],['http://www.pol.lublin.pl/'],Poland
+,Silesian Technical University of Gliwice,PL,"['polsl.gliwice.pl', 'polsl.pl']","['http://www.polsl.gliwice.pl/', 'http://www.polsl.pl/']",Poland
+,Technical University of Opole,PL,['po.opole.pl'],['http://www.po.opole.pl/'],Poland
+,Technical University of Rzeszow,PL,['prz.rzeszow.pl'],['http://www.prz.rzeszow.pl/'],Poland
+,Pedagogical University of Kielce,PL,['pu.kielce.pl'],['http://www.pu.kielce.pl/'],Poland
+,Poznan University of Life Sciences,PL,['puls.edu.pl'],['http://www.puls.edu.pl/'],Poland
+,Technical University of Poznan,PL,['put.poznan.pl'],['http://www.put.poznan.pl/'],Poland
+,Warsaw University of Technology,PL,['pw.edu.pl'],['http://www.pw.edu.pl/'],Poland
+,Technical University of Wroclaw,PL,"['pwr.wroc.pl', 'pwr.edu.pl']","['http://www.pwr.wroc.pl/', 'https://pwr.edu.pl/']",Poland
+,Ludwik Solski State Academy of Theatre in Cracow,PL,['pwst.krakow.pl'],['http://www.pwst.krakow.pl/'],Poland
+,Walcz College,PL,['pwsz.eu'],['http://www.pwsz.eu/'],Poland
+,Staszic Pila College,PL,['pwsz.pila.pl'],['http://www.pwsz.pila.pl/'],Poland
+,Technical University of Zielona Gora,PL,['pz.zgora.pl'],['http://www.pz.zgora.pl/'],Poland
+,Christian Theological Academy in Warszaw,PL,['chat.edu.pl'],['https://chat.edu.pl/'],Poland
+,Agricultural University of Warsaw,PL,['sggw.waw.pl'],['http://www.sggw.waw.pl/'],Poland
+,Warsaw School of Economics,PL,['sgh.waw.pl'],['http://www.sgh.waw.pl/'],Poland
+,Silesian Academy of Medicine in Katowice,PL,['slam.katowice.pl'],['http://www.slam.katowice.pl/'],Poland
+,Warsaw School of Social Psychology,PL,['swps.edu.pl'],['http://www.swps.edu.pl/'],Poland
+,Technical University of Kielce,PL,['tu.kielce.pl'],['http://www.tu.kielce.pl/'],Poland
+,Technical University of Koszalin,PL,['tu.koszalin.pl'],['http://www.tu.koszalin.pl/'],Poland
+,Technical University of Szczecin,PL,['tuniv.szczecin.pl'],['http://www.tuniv.szczecin.pl/'],Poland
+,Józef Tyszkiewicz College of Business and Computer Science in Bielsko-Biala,PL,['tyszkiewicz.edu.pl'],['http://www.tyszkiewicz.edu.pl/'],Poland
+,University of Bialystok,PL,['ub.edu.pl'],['http://www.ub.edu.pl/'],Poland
+,Jagiellonian University Cracow,PL,['uj.edu.pl'],['http://www.uj.edu.pl/'],Poland
+,Cardinal Stefan Wyszynski University in Warsaw,PL,['uksw.edu.pl'],['http://www.uksw.edu.pl/'],Poland
+,Maria Curie-Sklodowska University Lublin,PL,['umcs.lublin.pl'],['http://www.umcs.lublin.pl/'],Poland
+,University of Economics and Innovation Lublin,PL,['wsei.lublin.pl'],['https://www.wsei.lublin.pl/'],Poland
+,University of Lodz,PL,['uni.lodz.pl'],['http://www.uni.lodz.pl/'],Poland
+,University of Opole,PL,['uni.opole.pl'],['http://www.uni.opole.pl/'],Poland
+,Nicolaus Copernicus University of Torun,PL,['uni.torun.pl'],['http://www.uni.torun.pl/'],Poland
+,University of Gdansk,PL,['univ.gda.pl'],['http://www.univ.gda.pl/'],Poland
+,Pedagogical University of Rzeszow,PL,['univ.rzeszow.pl'],['http://www.univ.rzeszow.pl/'],Poland
+,University of Szczecin,PL,['univ.szczecin.pl'],['http://www.univ.szczecin.pl/'],Poland
+,University of Wroclaw,PL,['uni.wroc.pl'],['http://www.uni.wroc.pl/'],Poland
+,University of Silesia,PL,['us.edu.pl'],['http://www.us.edu.pl/'],Poland
+,Medical Academy Karol Marcinkowski in Poznan,PL,['usoms.poznan.pl'],['http://www.usoms.poznan.pl/'],Poland
+,University of Technology and Life Sciences,PL,['utp.edu.pl'],['http://www.utp.edu.pl/'],Poland
+,University of Warsaw,PL,['uw.edu.pl'],['http://www.uw.edu.pl/'],Poland
+,University of Wamia and Masuria in Olsztyn,PL,['uwm.edu.pl'],['http://www.uwm.edu.pl/'],Poland
+,Pawel Wlodkowic University College in Plock,PL,['wlodkowic.pl'],['http://www.wlodkowic.pl/'],Poland
+,Higher School o Business/National Louis University(WSB/NLU) in Nowy Sacz,PL,['wsb-nlu.edu.pl'],['http://www.wsb-nlu.edu.pl/'],Poland
+,Poznan School of Banking,PL,['wsb.poznan.pl'],['http://www.wsb.poznan.pl/'],Poland
+,Higher School o Business in Tarnow,PL,['wsb.toi.tarnow.pl'],['http://wsb.toi.tarnow.pl/'],Poland
+,University of Finance and Management in Bialystok,PL,['wsfiz.edu.pl'],['http://www.wsfiz.edu.pl/'],Poland
+,Aleksander Gieysztor School of Humanities in Pultusk,PL,['wsh.edu.pl'],['http://www.wsh.edu.pl/'],Poland
+,Ryszard Lazarski University of Commerce and Law in Warsaw,PL,['wship.edu.pl'],['http://www.wship.edu.pl/'],Poland
+,College of Computer Science in Lodz,PL,['wsinf.edu.pl'],['http://www.wsinf.edu.pl/'],Poland
+,Warsaw School of Information Technology,PL,['wsisiz.edu.pl'],['http://www.wsisiz.edu.pl/'],Poland
+,University of Information Technology and Management in Rzeszow,PL,['wsiz.rzeszow.pl'],['http://www.wsiz.rzeszow.pl/'],Poland
+,Gdynia Maritime Academy,PL,['wsm.gdynia.pl'],['http://www.wsm.gdynia.pl/'],Poland
+,"Academy of International Economic and Political Relations, Gdynia",PL,['wsms.edu.pl'],['http://www.wsms.edu.pl/'],Poland
+,Maritime University in Szczecin,PL,['wsm.szczecin.pl'],['http://www.wsm.szczecin.pl/'],Poland
+,Pedagogical University of Bydgoszcz,PL,['wsp.bydgoszcz.pl'],['http://www.wsp.bydgoszcz.pl/'],Poland
+,Pedagogical University of Czestochowa,PL,['wsp.czest.pl'],['http://www.wsp.czest.pl/'],Poland
+,Leon Kozminski Academy of Entrepreneurship and Management in Warsaw,PL,['wspiz.edu.pl'],['http://www.wspiz.edu.pl/'],Poland
+,Pedagogical University of Krakow,PL,['wsp.krakow.pl'],['http://www.wsp.krakow.pl/'],Poland
+,Pedagogical University of Slupsk,PL,['wsp.slupsk.pl'],['http://www.wsp.slupsk.pl/'],Poland
+,Maria Grzegorzewska College for Special Education,PL,['wsps.waw.pl'],['http://www.wsps.waw.pl/'],Poland
+,Pedagogical University of the Polish Association for Adult Education in Warsaw,PL,['wsptwpwaw.edu.pl'],['http://www.wsptwpwaw.edu.pl/'],Poland
+,Pedagogical University of Zielona Gora,PL,['wsp.zgora.pl'],['http://www.wsp.zgora.pl/'],Poland
+,University of Insurance and Banking in Warsaw,PL,['wsub.waw.pl'],['http://www.wsub.waw.pl/'],Poland
+,School of Banking and Management in Cracow,PL,['wszib.krakow.pl'],['http://www.wszib.krakow.pl/'],Poland
+,University of Management and Marketing,PL,['wszim.edu.pl'],['http://www.wszim.edu.pl/'],Poland
+,Gdansk Management College,PL,['wsz.pl'],['http://www.wsz.pl/'],Poland
+,Polish Open University in Warsaw (WSZ/POU),PL,['wsz-pou.edu.pl'],['http://www.wsz-pou.edu.pl/'],Poland
+,West Pomeranian Business School in Szczecin,PL,['zpsb.szczecin.pl'],['http://www.zpsb.szczecin.pl/'],Poland
+,Maj Institute of Pharmacology Polish Academy of Sciences,PL,['if-pan.krakow.pl'],['https://if-pan.krakow.pl/'],Poland
+,Nicolaus Copernicus Astronomical Center of Pharmacology Polish Academy of Sciences,PL,['camk.edu.pl'],['https://camk.edu.pl/'],Poland
+,University of Economics and Humanities Warsaw,PL,['students.vizja.pl'],['https://vizja.pl/'],Poland
+,Uniwersytet SWPS,PL,['swps.pl'],['https://swps.pl/'],Poland
+,Helena Chodkowska University of Technology and Economics,PL,"['uth.edu.pl', 'uth.pl']",['https://www.uth.edu.pl/'],Poland
+Pomeranian,Sopocka Academia,PL,['sopocka.edu.pl'],['https://sopocka.edu.pl/'],Poland

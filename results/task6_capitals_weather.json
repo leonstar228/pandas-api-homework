@@ -1,0 +1,37 @@
+[
+  {
+    "country":"Ukraine",
+    "capital":"Kyiv",
+    "population":44134693,
+    "temperature":24.0,
+    "wind":9.8
+  },
+  {
+    "country":"Poland",
+    "capital":"Warsaw",
+    "population":37950802,
+    "temperature":22.1,
+    "wind":8.3
+  },
+  {
+    "country":"Germany",
+    "capital":"Berlin",
+    "population":83240525,
+    "temperature":23.9,
+    "wind":15.8
+  },
+  {
+    "country":"France",
+    "capital":"Paris",
+    "population":67391582,
+    "temperature":27.2,
+    "wind":4.3
+  },
+  {
+    "country":"Italy",
+    "capital":"Rome",
+    "population":59554023,
+    "temperature":30.7,
+    "wind":3.7
+  }
+]
